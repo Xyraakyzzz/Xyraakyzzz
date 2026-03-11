@@ -10,17 +10,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Checkout repo
       - uses: actions/checkout@v3
 
+      # 2. Generate snake SVG
       - uses: Platane/snk@v3
         with:
           github_user_name: Xyraakyzzz
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+      # 3. Commit & push langsung ke main
+      - name: Commit and push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake [skip ci]" || echo "No changes to commit"
+          git push origin HEAD:main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
