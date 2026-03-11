@@ -56,13 +56,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kxyzzdev) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kxyzzdev) 
 [![TikTok](https://img.shields.io/badge/TikTok-black.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@kyzzznekoo) 
-[![Gravatar](https://img.shields.io/badge/Gravatar-828282?style=for-the-badge&logo=gravatar&logoColor=dark)](https://gravatar.com/kyxzz)
+[![Gravatar](https://img.shields.io/badge/Gravatar-black.svg?style=for-the-badge&logo=gravatar&logoColor=white)](https://gravatar.com/kyxzz)
 </div>
 
 
-
-<!-- Snake Animation (https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
--->
 <div align="center">
     
   ![snake gif](https://github.com/Xyraakyzzz/Xyraakyzzz/blob/main/output/github-snake-dark.svg)
