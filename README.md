@@ -83,9 +83,11 @@ Tujuan saya adalah membangun solusi backend yang andal, efisien, dan berkelanjut
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night"/>---
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Xyraakyzzz&theme=tokyonight&no-frame=true&margin-w=10"/>---
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Xyraakyzzz&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 🐍 Contribution Snake
 
