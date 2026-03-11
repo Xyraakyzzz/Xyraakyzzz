@@ -29,7 +29,7 @@
 <!-- Snake Animation -->
 <div align="center">
     
-  ![snake gif](https://github.com/Xyraakyzzz/Xyraakyzzz/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Xyraakyzzz/Xyraakyzzz/github-snake-dark.svg)
 </div>
 
 
