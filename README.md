@@ -1,10 +1,9 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Xyraakyys</h1><p align="center">
+<!-- ================= HEADER ================= --><h1 align="center">Hi 👋, I'm Xyraakyys</h1><p align="center">
 Backend Developer • API Engineer • System Builder
 </p><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Engineer;System+Architecture;High+Performance+Backend;Secure+Server+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Engineer;System+Architecture;High+Performance+Backend;Secure+Server+Infrastructure"/>
 </p><p align="center">
-<img src="https://komarev.com/ghpvc/?username=Xyraakyzzz&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Xyraakyzzz&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>---
 
 💫 About Me
@@ -13,7 +12,7 @@ Saya adalah seorang Backend Developer yang berfokus pada pengembangan sistem ser
 
 Saya tertarik membangun sistem yang stabil, aman, scalable, dan memiliki performa tinggi.
 
-Dalam pengembangan, saya menekankan:
+Dalam pengembangan saya menekankan:
 
 - Clean code
 - Struktur sistem yang rapi
@@ -90,7 +89,7 @@ Tools
 
 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/Xyraakyzzz/Xyraakyzzz/output/github-contribution-grid-snake.svg" />---
+<img src="https://raw.githubusercontent.com/Xyraakyzzz/Xyraakyzzz/output/github-contribution-grid-snake.svg"/>---
 
 ✍️ Dev Quote
 
