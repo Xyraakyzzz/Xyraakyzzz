@@ -30,7 +30,7 @@
 -->
 <div align="center">
     
-  ![snake gif](https://github.com/Xyraakyzzz/Xyraakyzzz/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Xyraakyzzz/Xyraakyzzz/blob/main/output/github-snake-dark.svg)
 </div>
 
 
