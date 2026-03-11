@@ -55,8 +55,7 @@
 ## 🌐 Connect with Me 🍬
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kxyzzdev) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kxyzzdev) 
-[![TikTok](https://img.shields.io/badge/TikTok-black.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@kyzzznekoo) 
-<img src="https://www.gravatar.com/avatar/kyxzz?s=28" width="28" height="28" alt="Gravatar"/>
+[![TikTok](https://img.shields.io/badge/TikTok-black.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@kyzzznekoo)
 </div>
 
 
