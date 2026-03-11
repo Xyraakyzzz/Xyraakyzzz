@@ -1,32 +1,34 @@
-name: Generate Snake
+name: GitHub Contribution Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # update tiap hari jam 00:00 UTC
+  workflow_dispatch:     # bisa dijalankan manual juga
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repo
-      - uses: actions/checkout@v3
+      # Checkout repo
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      # 2. Generate snake SVG
-      - uses: Platane/snk@v3
+      # Generate Snake
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Xyraakyzzz
+          # Optional: ubah theme kalau mau
+          theme: tokyonight
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-con
 
-      # 3. Commit & push langsung ke main
-      - name: Commit and push SVG
+      # Commit dan push hasil ke branch yang sama
+      - name: Commit Snake
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add dist/github-contribution-grid-snake.svg
-          git commit -m "Update contribution snake [skip ci]" || echo "No changes to commit"
-          git push origin HEAD:main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output/github-contribution-grid-snake.svg
+          git commit -m "Update Contribution Snake [skip ci]" || echo "No changes to commit"
+          git push
