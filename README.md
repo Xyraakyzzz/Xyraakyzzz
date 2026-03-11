@@ -1,6 +1,10 @@
 
 # 💫 About Me:
-Saya adalah seorang Backend Developer yang berfokus pada pengembangan sistem server-side, pembuatan dan pengelolaan API, serta perancangan arsitektur backend untuk aplikasi web. Saya memiliki ketertarikan pada pembangunan sistem yang stabil, aman, dan memiliki performa yang optimal untuk mendukung berbagai kebutuhan aplikasi.<br><br>Dalam proses pengembangan, saya menekankan pada kualitas kode, struktur sistem yang terorganisir, serta efisiensi dalam pengolahan data dan komunikasi antar layanan. Saya juga terbiasa merancang dan mengintegrasikan API agar dapat digunakan secara konsisten oleh berbagai komponen aplikasi.<br><br>Sebagai Backend Developer, saya memandang backend sebagai fondasi utama dari sebuah sistem digital. Oleh karena itu, saya terus mengembangkan kemampuan dalam perancangan sistem, optimasi performa, serta penerapan praktik pengembangan perangkat lunak yang profesional untuk menghasilkan solusi backend yang andal dan berkelanjutan.
+Saya adalah seorang Backend Developer yang berfokus pada pengembangan sistem server-side dan pembuatan API untuk aplikasi web.
+Saya memiliki ketertarikan dalam membangun sistem yang stabil, aman, dan memiliki performa yang optimal.
+Dalam pengembangan, saya menekankan kualitas kode, struktur sistem yang rapi, dan efisiensi pengolahan data.
+Saya juga berpengalaman dalam merancang serta mengintegrasikan API untuk berbagai kebutuhan aplikasi.
+Tujuan saya adalah membangun solusi backend yang andal, efisien, dan berkelanjutan.
 
 
 ## 🌐 Socials:
