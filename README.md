@@ -2,7 +2,7 @@
 <div align="center">
   <img src="/api/stats?username=Xyraakyzzz&theme=aura&hide_border=true" width="55%" />
 </p> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xyraakyzzz&theme=aura&hide_border=true" width="50%" />
+  <img src="https://xyraakyzzz.vercel.app/api/stats" width="50%" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyraakyzzz&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /></br>
 </div>
 
