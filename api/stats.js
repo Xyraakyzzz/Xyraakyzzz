@@ -1,4 +1,4 @@
-// api/stats.js
+// api/stats.j
 export default function handler(req, res) {
   // CORS publik
   res.setHeader("Access-Control-Allow-Origin", "*");
