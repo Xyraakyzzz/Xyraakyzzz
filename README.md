@@ -8,7 +8,7 @@
 </div>
 
 <!-- ================= STATS =================
-<h2 align="center">📊 GitHub Analytics</h2>-->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xyraakyzzz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
+</div>-->
 
 
 <!-- Tech Stack -->
