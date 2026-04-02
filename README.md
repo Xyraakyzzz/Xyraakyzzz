@@ -7,7 +7,7 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyraakyzzz&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /></br>-->
 </div>
 
-<!-- ================= STATS ================= -->
+<!-- ================= STATS =================
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
@@ -15,7 +15,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyraakyzzz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="36%"/>
 </div>
 
-<br/>
+<br/> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="95%"/>
