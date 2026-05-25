@@ -1,7 +1,3 @@
-<div align="center">
-  
-
-</div>
 <h1 align="center">Kyxzz</h1>
 
 <p align="center">
