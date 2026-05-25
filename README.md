@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Xyraakyzzz&theme=tokyonight&no-frame=true&row=2&column=8"
+    <img src="https://xyraakyzzz.vercel.app/srv/trophy.svg"
       width="100%"/>
 </div>
 
