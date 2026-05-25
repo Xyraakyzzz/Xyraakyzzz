@@ -1,3 +1,23 @@
+<h1 align="center">Kyxzz</h1>
+
+<p align="center">
+  Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • System Architecture
+</p>
+
+<p align="center">
+  Focused on building scalable infrastructures, realtime systems, automation pipelines, and performance-driven network technologies.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Owner+of+Xyraa+Family;Realtime+Infrastructure+Engineering;Backend+Architecture+%26+Distributed+Systems;Automation+Pipelines+%26+Network+Engineering;Performance-Focused+Software+Development;Scalable+API+Infrastructure+Design;Experimental+Internet+Technologies;System+Optimization+%26+Architecture;Building+Realtime+Network-Driven+Platforms;Security+Focused+Backend+Engineering" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=Xyraakyzzz&label=PROFILE+VIEWS&color=000000&labelColor=000000&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 <div align="center">
  <!-- <img src="/api/stats?username=Xyraakyzzz&theme=aura&hide_border=true" width="55%" />
