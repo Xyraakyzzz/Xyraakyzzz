@@ -1,3 +1,7 @@
+<div align="center">
+  
+
+</div>
 <h1 align="center">Kyxzz</h1>
 
 <p align="center">
@@ -20,26 +24,22 @@
 </p>
 
 <div align="center">
- <!-- <img src="/api/stats?username=Xyraakyzzz&theme=aura&hide_border=true" width="55%" />
-</p> </br>-->
-  <img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%" />
-<!--<img src='https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night' img>-->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyraakyzzz&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /></br>-->
+  <img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%"/>
 </div>
-
-<!-- ================= STATS =================
+<!--================= STATS =================-->
 <h2 align="center">📊 GitHub Analytics</h2>
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xyraakyzzz&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xyraakyzzz&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="36%"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Xyraakyzzz&theme=tokyonight&no-frame=true&row=1&column=8"
+      width="100%"/>
 </div>
 
 <br/> 
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>-->
+</div>
 
 
 <!-- Tech Stack -->
