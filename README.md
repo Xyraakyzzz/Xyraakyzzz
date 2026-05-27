@@ -1,4 +1,20 @@
+<!--================= STATS =================-->
+<h2 align="center">📊 GitHub Analytics</h2>
+<br>
+
+<div align="center">
+    <img src="https://xyraakyzzz.vercel.app/srv/trophy.svg"
+      width="100%"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="95%"/>
+</div>
+
 <h1 align="center">Kyxzz</h1>
+
+<div align="center">
+  <img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%"/>
+</div>
+
 
 <p align="center">
   Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • System Architecture
@@ -18,24 +34,6 @@
     alt="Profile Views"
   />
 </p>
-
-<div align="center">
-  <img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%"/>
-</div>
-<!--================= STATS =================-->
-<h2 align="center">📊 GitHub Analytics</h2>
-<br>
-
-<div align="center">
-    <img src="https://xyraakyzzz.vercel.app/srv/trophy.svg"
-      width="100%"/>
-</div>
-
-<br/> 
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
 
 
 <!-- Tech Stack -->
