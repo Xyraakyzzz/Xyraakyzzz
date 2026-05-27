@@ -1,20 +1,4 @@
-<!--================= STATS =================-->
-<h2 align="center">📊 GitHub Analytics</h2>
-<br>
-
-<div align="center">
-    <img src="https://xyraakyzzz.vercel.app/srv/trophy.svg"
-      width="100%"/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
-
 <h1 align="center">Kyxzz</h1>
-
-<div align="center">
-  <img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%"/>
-</div>
-
 
 <p align="center">
   Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • System Architecture
@@ -28,13 +12,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Owner+of+Xyraa+Family;Realtime+Infrastructure+Engineering;Backend+Architecture+%26+Distributed+Systems;Automation+Pipelines+%26+Network+Engineering;Performance-Focused+Software+Development;Scalable+API+Infrastructure+Design;Experimental+Internet+Technologies;System+Optimization+%26+Architecture;Building+Realtime+Network-Driven+Platforms;Security+Focused+Backend+Engineering" />
 </p>
 
+<!--================= STATS =================-->
+<h2 align="center">📊 GitHub Analytics</h2>
+<br>
+
+<div align="center">
+  <img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+    <img src="https://xyraakyzzz.vercel.app/srv/trophy.svg"
+      width="100%"/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="95%"/>
+
 <p align="center">
   <img 
     src="https://komarev.com/ghpvc/?username=Xyraakyzzz&label=PROFILE+VIEWS&color=000000&labelColor=000000&style=for-the-badge"
     alt="Profile Views"
   />
 </p>
-
 
 <!-- Tech Stack -->
 <div align="center">
