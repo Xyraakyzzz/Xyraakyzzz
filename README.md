@@ -12,6 +12,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Owner+of+Xyraa+Family;Realtime+Infrastructure+Engineering;Backend+Architecture+%26+Distributed+Systems;Automation+Pipelines+%26+Network+Engineering;Performance-Focused+Software+Development;Scalable+API+Infrastructure+Design;Experimental+Internet+Technologies;System+Optimization+%26+Architecture;Building+Realtime+Network-Driven+Platforms;Security+Focused+Backend+Engineering" />
 </p>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="dark-no-ghost.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="light-no-ghost.svg"
+  />
+  <img alt="Breakout Game" src="light-no-ghost.svg" />
+</picture>
+
+
 <!--================= STATS =================-->
 <h2 align="center">📊 GitHub Analytics</h2>
 <br>
