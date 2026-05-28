@@ -15,13 +15,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="dark-no-ghost.svg"
+    srcset="srv/dark-no-ghost.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="light-no-ghost.svg"
+    srcset="srv/light-no-ghost.svg"
   />
-  <img alt="Breakout Game" src="light-no-ghost.svg" />
+  <img alt="Game" src="srv/light-no-ghost.svg" />
 </picture>
 
 
