@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  <img src="https://ghcommits.com/api/badge/Xyraakyzzz.svg"/>
+  <a href="https://ghcommits.com/u/Xyraakyzzz">
+    <img src="https://ghcommits.com/api/badge/Xyraakyzzz.svg" alt="GitHub Commits Badge">
+  </a>
 </p>
 
 <p align="center">
