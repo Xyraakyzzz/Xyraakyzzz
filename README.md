@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://ghcommits.com/u/Xyraakyzzz"/>
+  <img src="https://ghcommits.com/api/badge/Xyraakyzzz.svg"/>
 </p>
 
 <p align="center">
