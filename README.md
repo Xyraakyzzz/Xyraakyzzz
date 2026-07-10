@@ -8,6 +8,8 @@
   Focused on building scalable infrastructures, realtime systems, automation pipelines, and performance-driven network technologies.
 </p>
 
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/Xyraakyzzz.svg)](https://ghcommits.com/u/Xyraakyzzz)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Owner+of+Xyraa+Family;Realtime+Infrastructure+Engineering;Backend+Architecture+%26+Distributed+Systems;Automation+Pipelines+%26+Network+Engineering;Performance-Focused+Software+Development;Scalable+API+Infrastructure+Design;Experimental+Internet+Technologies;System+Optimization+%26+Architecture;Building+Realtime+Network-Driven+Platforms;Security+Focused+Backend+Engineering" />
 </p>
