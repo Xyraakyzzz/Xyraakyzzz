@@ -1,12 +1,16 @@
 <h1 align="center">Kyxzz</h1>
 
-<p align="center">
-  Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • System Architecture
-</p>
+<div align="center">
 
-<p align="center">
+Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • System Architecture
+  
   Focused on building scalable infrastructures, realtime systems, automation pipelines, and performance-driven network technologies.
-</p>
+  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyraaservice@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xyraakyzzz)
+
+</div>
 
 <p align="center">
   <a href="https://ghcommits.com/u/Xyraakyzzz">
