@@ -30,6 +30,16 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
 
 ---
 
+## 🏙 GitHub Skyline
+
+<p align="center">
+  <a href="./Xyraakyzzz-2025-26-github-skyline.stl">
+    <img src="./Xyraakyzzz-2025-26-github-skyline.stl" width="100%">
+  </a>
+</p>
+
+---
+
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Xyraakyzzz&label=PROFILE+VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Visitors Profile"/>
