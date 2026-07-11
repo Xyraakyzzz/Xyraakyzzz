@@ -21,11 +21,8 @@ jobs:
       - name: Generate random data
         run: |
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          RANDOM_NUM=$((RANDOM % 10000))
           RANDOM_HEX=$(openssl rand -hex 8)
-          MOODS=("happy" "calm" "focused" "sleepy" "productive")
-          MOOD=${MOODS[$RANDOM % ${#MOODS[@]}]}
-          echo "{\"last_update\": \"$TIMESTAMP\", \"random_number\": $RANDOM_NUM, \"random_hex\": \"$RANDOM_HEX\", \"mood\": \"$MOOD\"}" > data.json
+          echo "{ \"creator\": \"Xyraa Kyxzz\",\"status\": true, \"data\": { \"create_at\": \"$TIMESTAMP\", \"id\": \"$RANDOM_HEX\"}}" > data.json
           cat data.json
 
       - name: Commit dan push sebagai user pribadi
