@@ -47,7 +47,7 @@
     <img src="/srv/trophy.svg"
       width="100%"/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="100%"/>
 
 <p align="center">
   <img 
