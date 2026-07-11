@@ -36,15 +36,15 @@
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xyraakyzzz&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=Xyraakyzzz&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
- <!-- (FALLBACK)<img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%"/>-->
+ <!-- (FALLBACK)<img src="/srv/chunk.svg" width="100%"/>-->
 
 <br>
 
 <div align="center">
-    <img src="https://xyraakyzzz.vercel.app/srv/trophy.svg"
+    <img src="/srv/trophy.svg"
       width="100%"/>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="95%"/>
