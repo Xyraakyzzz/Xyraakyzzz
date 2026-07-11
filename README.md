@@ -36,7 +36,8 @@
 <br>
 
 <div align="center">
-  <img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=Xyraakyzzz&theme=tokyonight&hide_border=true"/>
+ <!-- <img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%"/>-->
 </div>
 
 <br>
