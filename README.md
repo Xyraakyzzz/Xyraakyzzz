@@ -16,8 +16,6 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
 
 </div>
 
----
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -114,3 +112,10 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
 </div>
 
 ---
+<div align="center"><b>🤝 Let's Connect</b>
+
+Open to collaborating on interesting projects, API development, and automation solutions.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCWwrR3gvWdm7Cizm3N)
+
+</div>
