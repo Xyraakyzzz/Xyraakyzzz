@@ -6,21 +6,17 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
   
   Focused on building scalable infrastructures, realtime systems, automation pipelines, and performance-driven network technologies.
   
+---
+
+## 🌐 Connect with Me 🍬
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyraaservice@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xyraakyzzz)
 
 </div>
 
-<p align="center">
-  <a href="https://ghcommits.com/u/Xyraakyzzz">
-    <img src="https://ghcommits.com/api/badge/Xyraakyzzz.svg" alt="GitHub Commits Badge">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Owner+of+Xyraa+Family;Realtime+Infrastructure+Engineering;Backend+Architecture+%26+Distributed+Systems;Automation+Pipelines+%26+Network+Engineering;Performance-Focused+Software+Development;Scalable+API+Infrastructure+Design;Experimental+Internet+Technologies;System+Optimization+%26+Architecture;Building+Realtime+Network-Driven+Platforms;Security+Focused+Backend+Engineering" />
-</p>
+---
 
 <picture>
   <source
@@ -34,10 +30,24 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
   <img alt="Game" src="/srv/light-no-ghost.svg" />
 </picture>
 
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Xyraakyzzz&label=PROFILE+VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Visitors Profile"/>
+</p>
+
+<p align="center">
+  <a href="https://ghcommits.com/u/Xyraakyzzz">
+    <img src="https://ghcommits.com/api/badge/Xyraakyzzz.svg" alt="GitHub Commits Badge">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Owner+of+Xyraa+Family;Realtime+Infrastructure+Engineering;Backend+Architecture+%26+Distributed+Systems;Automation+Pipelines+%26+Network+Engineering;Performance-Focused+Software+Development;Scalable+API+Infrastructure+Design;Experimental+Internet+Technologies;System+Optimization+%26+Architecture;Building+Realtime+Network-Driven+Platforms;Security+Focused+Backend+Engineering" />
+</p>
 
 <!--================= STATS =================-->
-<h2 align="center">📊 GitHub Analytics</h2>
-<br>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Xyraakyzzz&theme=tokyonight&hide_border=true" width="100%"/>
@@ -48,18 +58,10 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
 <br>
 
 <div align="center">
-    <img src="/srv/trophy.svg"
-      width="100%"/>
-
+ <img src="/srv/trophy.svg" width="100%"/>
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="100%"/>
-
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=Xyraakyzzz&label=PROFILE+VIEWS&color=000000&labelColor=000000&style=for-the-badge"
-    alt="Profile Views"
-  />
-</p>
-
+</div>
 <!-- Tech Stack -->
 <div align="center">
   
@@ -101,27 +103,11 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
 
 </div>
 
+---
 
-
-<!-- Social connections -->
-<div align="center">
-
-## 🌐 Connect with Me 🍬
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kxyzzdev) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kxyzzdev) 
-[![TikTok](https://img.shields.io/badge/TikTok-black.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@kyzzznekoo)
-</div>
-
-
-<div align="center">
-    
-  ![snake gif](https://github.com/Xyraakyzzz/Xyraakyzzz/blob/main/output/github-snake-dark.svg)
-</div>
-
-
-
-<!-- Visit Counter -->
 <div align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=Xyraakyzzz&icon=10&color=6)](https://visitcount.itsvg.in)
+![snake gif](https://github.com/Xyraakyzzz/Xyraakyzzz/blob/main/output/github-snake-dark.svg)
 </div>
+
+---
