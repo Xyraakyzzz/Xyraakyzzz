@@ -30,6 +30,7 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
 
 ---
 
+<!--
 ## 🏙 GitHub Skyline
 
 <p align="center">
@@ -38,7 +39,7 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
   </a>
 </p>
 
----
+----->
 
 <h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
