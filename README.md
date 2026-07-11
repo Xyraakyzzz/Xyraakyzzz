@@ -35,10 +35,11 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 <br>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Xyraakyzzz&theme=tokyonight&hide_border=true" width="100%"/>
- <!-- <img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%"/>-->
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Xyraakyzzz&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
+
+ <!-- (FALLBACK)<img src="https://xyraakyzzz.vercel.app/srv/chunk.svg" width="100%"/>-->
 
 <br>
 
