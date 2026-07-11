@@ -32,7 +32,7 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
 
 ---
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Xyraakyzzz&label=PROFILE+VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Visitors Profile"/>
 </p>
