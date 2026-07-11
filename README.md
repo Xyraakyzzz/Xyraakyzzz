@@ -53,15 +53,18 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
   <img src="https://streak-stats.demolab.com?user=Xyraakyzzz&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
 
- <!-- (FALLBACK)<img src="/srv/chunk.svg" width="100%"/>-->
-
-<br>
+---
+<!-- (FALLBACK)<img src="/srv/chunk.svg" width="100%"/>-->
 
 <div align="center">
  <img src="/srv/trophy.svg" width="100%"/>
   
+ ---
+  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
+
+---
 <!-- Tech Stack -->
 <div align="center">
   
