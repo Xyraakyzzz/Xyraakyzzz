@@ -66,7 +66,7 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
 <!-- (FALLBACK)<img src="/srv/chunk.svg" width="100%"/>-->
 
 <div align="center">
- <img src="https://hacked-github-stat-trophies.vercel.app/?username=Xyraakyzzz&theme=dark&column=11" width="100%"/>
+ <img src="https://kyzznekoo.zone.id/Trophy?username=Xyraakyzzz&theme=dark" width="100%"/>
 
  ---
   
