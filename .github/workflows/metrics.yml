@@ -19,4 +19,3 @@ jobs:
           plugin_lines: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          
