@@ -112,7 +112,12 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
 ![snake gif](https://github.com/Xyraakyzzz/Xyraakyzzz/blob/main/output/github-snake-dark.svg)
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Xyraakyzzz/Xyraakyzzz/pacman-output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%">
+</div>
+
 ---
+
 <div align="center"><b>🤝 Let's Connect</b>
 
 Open to collaborating on interesting projects, API development, and automation solutions.
@@ -120,3 +125,5 @@ Open to collaborating on interesting projects, API development, and automation s
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCWwrR3gvWdm7Cizm3N)
 
 </div>
+
+---
