@@ -1,4 +1,4 @@
-name: Generate Arcade Animation
+name: Generate Trophy Animation
 
 on:
   schedule:
