@@ -17,45 +17,49 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Checkout repository with PAT
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_TOKEN }}
 
-      - name: Configure Git
-        run: |
-          git config --global user.name "${{ secrets.USER_NAME }}"
-          git config --global user.email "${{ secrets.USER_EMAIL }}"
-
       - name: Generate Pacman Contribution Graph
         uses: abhisheknaiidu/pacman-contribution-graph@main
         with:
-          github_user_name: "Xyraakyzzz"
+          github_user_name: Xyraakyzzz
 
       - name: Prepare output
         run: |
           mkdir -p pacman-output
 
-          OUTPUT="pacman-output/Xyraakyzzz-trophy.svg"
+          SVG=$(find . -type f -name "pacman-contribution-graph.svg" | head -n 1)
 
-          if [ -f "pacman-contribution-graph.svg" ]; then
-            cp pacman-contribution-graph.svg "$OUTPUT"
-          elif [ -f "dist/pacman-contribution-graph.svg" ]; then
-            cp dist/pacman-contribution-graph.svg "$OUTPUT"
+          if [ -n "$SVG" ] && [ -f "$SVG" ]; then
+            cp "$SVG" pacman-output/pacman-contribution-graph.svg
+            echo "✅ Generated SVG found."
           else
-            SVG=$(find . -type f -name "*.svg" | head -n 1)
-            if [ -n "$SVG" ]; then
-              cp "$SVG" "$OUTPUT"
-            else
-              cat > "$OUTPUT" <<EOF
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120">
-  <rect width="100%" height="100%" fill="#0d1117"/>
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#58a6ff" font-size="28" font-family="Arial">
-    Xyraakyzzz Trophy
-  </text>
-</svg>
-EOF
-            fi
+            echo "⚠️ SVG not found. Creating placeholder..."
+
+            cat > pacman-output/pacman-contribution-graph.svg <<'EOF'
+            <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+              <rect width="1200" height="300" fill="#0d1117"/>
+              <text x="600" y="140"
+                    text-anchor="middle"
+                    font-family="Arial, Helvetica, sans-serif"
+                    font-size="32"
+                    fill="#58a6ff">
+                Pacman Contribution Graph
+              </text>
+              <text x="600" y="185"
+                    text-anchor="middle"
+                    font-family="Arial, Helvetica, sans-serif"
+                    font-size="20"
+                    fill="#8b949e">
+                Waiting for first successful generation...
+              </text>
+            </svg>
+            EOF
+
+            echo "✅ Placeholder SVG created."
           fi
 
           ls -lah pacman-output
