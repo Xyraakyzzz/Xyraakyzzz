@@ -51,6 +51,10 @@ Owner of Xyraa Family • Realtime Infrastructure • Backend Engineering • Sy
 </p>
 
 <p align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Xyraakyzzz&layout=compact&theme=tokyonight">
+</p>
+
+<p align="center">
   <a href="https://ghcommits.com/u/Xyraakyzzz">
     <img src="https://ghcommits.com/api/badge/Xyraakyzzz.svg" alt="GitHub Commits Badge">
   </a>
