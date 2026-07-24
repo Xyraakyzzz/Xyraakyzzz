@@ -1,0 +1,32 @@
+name: 
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  auto-green:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo pakai PAT pribadi
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+      - name: Generate random data
+        run: |
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          RANDOM_HEX=$(openssl rand -hex 8)
+          echo "{ \"creator\": \"Xyraa Kyxzz\",\"status\": true, \"data\": { \"create_at\": \"$TIMESTAMP\", \"id\": \"$RANDOM_HEX\"}}" > data.json
+          cat data.json
+      - name: Commit dan push sebagai user pribadi 1
+        env:
+          TOKEN: ${{ secrets.PAT_TOKEN }}
+          GIT_USER: ${{ secrets.USER_NAME }}
+          GIT_EMAIL: ${{ secrets.USER_EMAIL }}
+        run: |
+          git config user.name "${GIT_USER}"
+          git config user.email "${GIT_EMAIL}"
+          git add data.json
+          git commit -m "Apa 🗿🗿 - ${GIT_USER} - $(date -u +"%Y-%m-%d %H:%M:%S")" || echo "Tidak ada perubahan untuk di-commit"
+          git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }}.git HEAD:main
