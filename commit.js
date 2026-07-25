@@ -318,7 +318,7 @@ function translateError(message = "") {
   console.log("🚀 Auto upload started...\n");
   while (true) {
     const Language = Languages[Math.floor(Math.random() * Languages.length)];
-    const filename = `${Math.floor(Math.random() * 1e9)}-${Date.now()}-KyxzzCr-.${Language.name}`;
+    const filename = `[CR-Kyxzz]-${Math.floor(Math.random() * 1e9)}-${Date.now()}.${Language.name}`;
   try {
     fs.writeFileSync(path.join(repoPath, filename), Language.code);
     await git.add(filename);
