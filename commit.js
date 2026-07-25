@@ -289,7 +289,7 @@ function translateError(message = "") {
 
 (async () => {
   if (!token) {
-    console.error("Mohon Isi token.")
+    console.error("❌ Mohon isi GitHub Personal Access Token.")
     process.exit(1);
   }
   const repoUrl = (await question("GitHub Repository URL: ")).trim();
@@ -318,7 +318,7 @@ function translateError(message = "") {
   console.log("🚀 Auto upload started...\n");
   while (true) {
     const Language = Languages[Math.floor(Math.random() * Languages.length)];
-    const filename = `${Math.floor(Math.random() * 1e9)}-${Date.now()}.${Language.name}`;
+    const filename = `${Math.floor(Math.random() * 1e9)}-${Date.now()}-KyxzzCr-.${Language.name}`;
   try {
     fs.writeFileSync(path.join(repoPath, filename), Language.code);
     await git.add(filename);
