@@ -137,6 +137,10 @@ Owner of XOF • Realtime Infrastructure • Backend Engineering • System Arch
 
 Open to collaborating on interesting projects, API development, and automation solutions.
 
+## Founder
+
+**Ryynnnn** — Founder of **Xyraa Family**, an independent technology community focused on software engineering, infrastructure, and open-source development.
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCWwrR3gvWdm7Cizm3N)
 
 </div>
