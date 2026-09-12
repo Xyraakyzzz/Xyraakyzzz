@@ -139,7 +139,7 @@ Open to collaborating on interesting projects, API development, and automation s
 
 ## Founder
 
-**Ryynnnn** — Founder of **Xyraa Family**, an independent technology community focused on software engineering, infrastructure, and open-source development.
+**[Ryynnnn](https://github.com/Ryynnnn)** — Founder of **XOF**, an independent technology community focused on software engineering, infrastructure, and open-source development.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCWwrR3gvWdm7Cizm3N)
 
