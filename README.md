@@ -135,6 +135,10 @@ Owner of XOF • Realtime Infrastructure • Backend Engineering • System Arch
 
 <div align="center"><b>🤝 Let's Connect</b>
 
+Xyraa Family, also known as Xyraa Official (XOF), is an independent technology community focused on software engineering, infrastructure, and open-source development.
+
+---
+
 Open to collaborating on interesting projects, API development, and automation solutions.
 
 ## Founder
