@@ -74,7 +74,7 @@ Owner of XOF • Realtime Infrastructure • Backend Engineering • System Arch
 <!-- (FALLBACK)<img src="/srv/chunk.svg" width="100%"/>-->
 
 <div align="center">
- <img src="https://kyzznekoo.zone.id/Trophy?username=Xyraakyzzz&theme=algolia" width="100%"/>
+ <img src="https://thropy.kyzznekoo.my.id?username=Xyraakyzzz&theme=algolia" width="100%"/>
 
  ---
   
