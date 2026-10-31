@@ -145,8 +145,9 @@ Open to collaborating on interesting projects, API development, and automation s
 
 ## Founder
 
-**Ryynnnn** — Co-founder and early builder of XOF, contributing to the development and growth of the community from its early stages. He has been involved in shaping XOF's direction, supporting software projects, infrastructure development, and helping build the foundation of the XOF ecosystem.
+**Ryynn** — Co-founder and early builder of XOF, contributing to the development and growth of the community from its early stages. He has been involved in shaping XOF's direction, supporting software projects, infrastructure development, and helping build the foundation of the XOF ecosystem.
 
+[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xof.web.id)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCWwrR3gvWdm7Cizm3N)
 
 </div>
