@@ -1,155 +1,258 @@
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Animated Banner">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Kyxzz Profile Banner">
 
 ---
 
 <h1 align="center">Kyxzz</h1>
+
 <div align="center">
 
-Owner of XOF • Realtime Infrastructure • Backend Engineering • System Architecture
-  
-  Focused on building scalable infrastructures, realtime systems, automation pipelines, and performance-driven network technologies.
-  
----
+**Founder of XOF • Backend Engineering • Infrastructure Architecture**
 
-## 🌐 Connect with Me 🍬
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyraaservice@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xyraakyzzz)
+Building backend systems, API platforms, networking infrastructure, and automation workflows with a focus on performance, reliability, and system architecture.
 
 </div>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="/srv/dark-no-ghost.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="/srv/light-no-ghost.svg"
-  />
-  <img alt="Game" src="/srv/light-no-ghost.svg" />
-</picture>
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xyraakyzzz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyraaservice@gmail.com)
+[![XOF Website](https://img.shields.io/badge/XOF-Official_Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xof.web.id)
+[![XOF GitHub](https://img.shields.io/badge/XOF-GitHub_Organization-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xof-next)
+
+</div>
 
 ---
 
-<!--
-## 🏙 GitHub Skyline
+## 👨‍💻 About Me
+
+I'm **Kyxzz**, founder of **XOF (Xyraa Official)**, an independent engineering organization focused on software engineering, backend infrastructure, networking, protocol engineering, and developer tools.
+
+My technical interests include backend development, API architecture, networking optimization, distributed systems, automation, and system security.
+
+I contribute to the direction and engineering development of XOF and its ecosystem of projects.
+
+## 🏢 XOF — Xyraa Official
+
+**XOF (Xyraa Official)** is an independent engineering organization founded by Kyxzz, with Ryyn as co-founder.
+
+XOF focuses on:
+
+- Backend engineering and infrastructure development.
+- Networking optimization and protocol engineering.
+- Developer tools and reusable software components.
+- Database systems and data synchronization.
+- System security, reliability, and performance.
+- Developer experience and software architecture.
+
+XOF is the organization behind its engineering ecosystem. Its projects and platforms have their own identities and purposes.
+
+### Founders & Contributions
+
+**Kyxzz — Founder**
+
+Founder of XOF, contributing to the organization's engineering direction, backend infrastructure, networking optimization, database systems, and protocol development.
+
+**Ryyn — Co-Founder**
+
+Co-founder of XOF, contributing across the development of its projects. His work particularly focuses on **Developer Experience (DX), User Experience (UX), User Interface (UI), product design, and backend engineering**.
+
+His contributions span product experience, system development, and implementation across the XOF ecosystem.
+
+### XOF Official Links
+
+| Resource | Official URL |
+|---|---|
+| Organization Website | [xof.web.id](https://xof.web.id) |
+| GitHub Organization | [github.com/xof-next](https://github.com/xof-next) |
+| npm Organization | [npmjs.com/org/xof](https://www.npmjs.com/org/xof) |
+| Contact | [xyraaservice@gmail.com](mailto:xyraaservice@gmail.com) |
+
+## 🚀 Projects & Ecosystem
+
+### KyzzNekoo
+
+**KyzzNekoo** is a REST API platform developed within the XOF ecosystem, providing API services and developer integrations.
+
+It is a platform in its own right, not another name for XOF. XOF represents the engineering organization, while KyzzNekoo represents one of its platforms.
+
+- Platform: [app.kyzznekoo.my.id](https://app.kyzznekoo.my.id)
+- API: [api.kyzznekoo.my.id](https://api.kyzznekoo.my.id)
+
+### XQuic
+
+**XQuic** is an XOF networking and protocol engineering project exploring QUIC-based transport and HTTP/3-related technologies.
+
+Its public Node.js interfaces include:
+
+- `@xof/quic`
+- `@xof/h3`
+
+The project explores transport efficiency, connection handling, and networking architecture. XQuic is an engineering project built around existing networking standards, not a new Internet standard.
+
+### @xof/* Packages
+
+The `@xof/*` npm ecosystem contains reusable software packages and developer tools built as part of XOF's engineering work.
+
+Organization: [npmjs.com/org/xof](https://www.npmjs.com/org/xof)
+
+### Other Projects
+
+XOF's wider project ecosystem also includes:
+
+- **WANGSAF** — A communication and messaging application project.
+- **Alight Motion Service Project** — An independent XOF web-service project, not affiliated with or officially associated with Alight Motion.
+
+For current project information, refer to the [official XOF website](https://xof.web.id).
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Founder+of+XOF;Backend+Engineering+%26+Infrastructure+Architecture;Networking+Optimization+%26+Protocol+Engineering;Backend+Systems+%26+Distributed+Architecture;Automation+Pipelines+%26+Developer+Tools;Performance-Focused+Software+Development;API+Infrastructure+Design;System+Optimization+%26+Security" alt="Kyxzz Engineering Interests"/>
+
+<img src="https://komarev.com/ghpvc/?username=Xyraakyzzz&label=PROFILE+VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Profile Views"/>
+
+</div>
 
 <p align="center">
-  <a href="./Xyraakyzzz-2025-26-github-skyline.stl">
-    <img src="./Xyraakyzzz-2025-26-github-skyline.stl" width="100%">
-  </a>
-</p>
-
------>
-
-<h2 align="center">🏆 GitHub Achievements</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&width=980&lines=Owner+of+XOF;XOF+Founder+%26+Early+Builder;Realtime+Infrastructure+Engineering;Backend+Architecture+%26+Distributed+Systems;Automation+Pipelines+%26+Network+Engineering;Performance-Focused+Software+Development;Scalable+API+Infrastructure+Design;Experimental+Internet+Technologies;System+Optimization+%26+Architecture;Building+Realtime+Network-Driven+Platforms;Security+Focused+Backend+Engineering" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xyraakyzzz&label=PROFILE+VIEWS&color=000000&labelColor=000000&style=for-the-badge" alt="Visitors Profile"/>
-</p>
-
-<p align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Xyraakyzzz&layout=compact&theme=tokyonight">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Xyraakyzzz&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <a href="https://ghcommits.com/u/Xyraakyzzz">
-    <img src="https://ghcommits.com/api/badge/Xyraakyzzz.svg" alt="GitHub Commits Badge">
+    <img src="https://ghcommits.com/api/badge/Xyraakyzzz.svg" alt="GitHub Commits Badge"/>
   </a>
 </p>
 
-<!--================= STATS =================-->
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Xyraakyzzz&theme=tokyonight&hide_border=true" width="100%"/>
+  <img src="https://streak-stats.demolab.com?user=Xyraakyzzz&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
 </p>
 
+<div align="center">
+
+<img src="https://thropy.kyzznekoo.my.id?username=Xyraakyzzz&theme=algolia" width="100%" alt="GitHub Trophies"/>
+
 ---
-<!-- (FALLBACK)<img src="/srv/chunk.svg" width="100%"/>-->
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Xyraakyzzz&data=followers,repositories,stars,commits&theme=dark" alt="GitHub Profile Widget"/>
+
+---
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
- <img src="https://thropy.kyzznekoo.my.id?username=Xyraakyzzz&theme=algolia" width="100%"/>
 
- ---
-  
- <p align='center'>
-<img src='https://github-widgetbox.vercel.app/api/profile?username=Xyraakyzzz&data=followers,repositories,stars,commits&theme=dark'>
-</p>
+### Languages & Programming
 
----
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Xyraakyzzz&theme=tokyo-night&hide_border=true" width="100%"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Frontend & UI
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+### Backend & APIs
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Infrastructure & DevOps
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+### Data Science & Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+
+### Design & Multimedia
+
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### Version Control & Other Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 </div>
 
 ---
-<!-- Tech Stack -->
+
+## 🐍 Contribution Graph
+
 <div align="center">
-  
-### **Languages / Programming**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
-### **Frontend / UI**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+<img src="https://github.com/Xyraakyzzz/Xyraakyzzz/blob/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
 
-### **Backend / APIs**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+</div>
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+## 👾 Contribution Activity
 
-### **DevOps / Hosting**
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+<div align="center">
 
-### **Data Science / ML**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Design / Multimedia**
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
-### **Version Control / Others**
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<img src="https://raw.githubusercontent.com/Xyraakyzzz/Xyraakyzzz/pacman-output/pacman-contribution-graph-dark.svg" width="100%" alt="GitHub Pacman Contribution Graph"/>
 
 </div>
 
 ---
 
 <div align="center">
-  
-![snake gif](https://github.com/Xyraakyzzz/Xyraakyzzz/blob/output/github-snake-dark.svg)
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Xyraakyzzz/Xyraakyzzz/pacman-output/pacman-contribution-graph-dark.svg" alt="Pacman Contribution Graph" width="100%">
-</div>
+## 🤝 Let's Connect
+
+Open to collaboration involving backend development, API infrastructure, networking, developer tooling, and software engineering.
+
+### Personal Profile
+
+[![GitHub](https://img.shields.io/badge/Personal_GitHub-Xyraakyzzz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xyraakyzzz)
+[![Email](https://img.shields.io/badge/Contact_Email-xyraaservice%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xyraaservice@gmail.com)
+
+### XOF — Official Organization
+
+[![Website](https://img.shields.io/badge/Official_Website-xof.web.id-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xof.web.id)
+[![GitHub Organization](https://img.shields.io/badge/GitHub_Organization-xof--next-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xof-next)
+[![npm Organization](https://img.shields.io/badge/npm_Organization-%40xof-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/org/xof)
+[![WhatsApp Channel](https://img.shields.io/badge/WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCWwrR3gvWdm7Cizm3N)
 
 ---
 
-<div align="center"><b>🤝 Let's Connect</b>
-  
----
-
-Xyraa Family, also known as Xyraa Official (XOF), is an independent technology community focused on software engineering, infrastructure, and open-source development.
-
----
-
-Open to collaborating on interesting projects, API development, and automation solutions.
-
-## Founder
-
-**Ryyn** — Co-founder and early builder of XOF, contributing to the development and growth of the community from its early stages. He has been involved in shaping XOF's direction, supporting software projects, infrastructure development, and helping build the foundation of the XOF ecosystem.
-
-[![Website](https://img.shields.io/badge/Website-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://xof.web.id)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCWwrR3gvWdm7Cizm3N)
+<sub>Personal profile of Kyxzz · Founder of XOF (Xyraa Official)</sub>
 
 </div>
-
----
