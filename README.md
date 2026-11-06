@@ -1,7 +1,3 @@
-<img src="https://cdn.kyzznekoo.my.id/BDKuLZsfTvnd" width="100%" alt="Kyxzz Profile Banner">
-
----
-
 <h1 align="center">Kyxzz</h1>
 
 <div align="center">
